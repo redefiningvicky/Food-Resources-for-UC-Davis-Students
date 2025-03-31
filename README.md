@@ -6,4 +6,4 @@ This project is spontaneously inspired by <i>Remy’s Recipe for Food Insecurity
 • <b>Design:</b> Canva <p>
 ## 🧭 Map <br>
 This project is a fully functional map available at the following link: [View Map](https://www.google.com/maps/d/u/0/edit?mid=1t1K7LJij3VG0_I-Iuf8NwHES3_MxRYg&usp=sharing) <p>
-![me](https://github.com/redefiningvicky/Food-Resources-for-UC-Davis-Students/blob/665c963d2b6293a858f45d13fb9561b7bb0d72b2/Food_Resources_UCD_Images/Food_Resources_UCD.png)
+![me](https://github.com/redefiningvicky/Food-Resources-for-UC-Davis-Students/blob/3481f69ccdf15e619b637f367101dcbc1a1e508c/Food_Resources_UCD_Images/Food_Resources_UCD.png)
