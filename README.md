@@ -1,6 +1,6 @@
  # 🍉 Food Resources for UC Davis Students
 ## 🎯 Objective <br>
-This project is spontaneously inspired by <i>Remy’s Recipe for Food Insecurity</i> poster at The Green at West Village, Davis, California, United States. It integrates resources from Aggie Compass, campus food programs, and community food initiatives to support University of California, Davis students facing food insecurity. <p>
+This project is spontaneously inspired by <i>Remy’s Recipe for Food Insecurity</i> poster at The Green at West Village, Davis, California, United States. It integrates resources from Aggie Compass, campus food programs, and community food initiatives to support the University of California, Davis students facing food insecurity. <p>
 ## 🛠️ Tools <br>
 • <b>Google:</b> Google Maps <p>
 • <b>Design:</b> Canva <p>
