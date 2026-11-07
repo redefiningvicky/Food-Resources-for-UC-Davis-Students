@@ -18,6 +18,7 @@
   <li><a href="#objective">Objective</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#project-details">Project Details</a></li>
+  <li><a href="#locations">Locations</a></li>
   <li><a href="#map">Map</a></li>
   <li><a href="#images">Images</a></li>
 </ul>
@@ -68,6 +69,17 @@
 <p>
   <strong>Tools:</strong> Google Maps, Canva
 </p>
+
+<hr>
+
+<h2 id="locations">📍 Locations</h2>
+
+<ul>
+  <li>Davis, California</li>
+  <li>Sacramento, California</li>
+  <li>Woodland, California</li>
+  <li>Winters, California</li>
+</ul>
 
 <hr>
 
