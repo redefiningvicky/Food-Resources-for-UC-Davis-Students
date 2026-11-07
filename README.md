@@ -28,7 +28,7 @@
 
 <p>
   This project is spontaneously inspired by
-  <em>Remy's Recipe for Food Insecurity</em> poster
+  Remy's Recipe for Food Insecurity poster
   at The Green at West Village, Davis, California,
   United States. It integrates resources from Aggie
   Compass, campus food programs, and community food
