@@ -70,6 +70,8 @@
   <strong>Tools:</strong> Google Maps, Canva
 </p>
 
+<p><strong>Format:</strong> Map</p>
+
 <hr>
 
 <h2 id="locations">📍 Locations</h2>
